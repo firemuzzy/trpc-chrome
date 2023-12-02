@@ -1,7 +1,10 @@
 {
-  "name": "trpc-chrome",
-  "version": "1.0.0",
-  "description": "tRPC adapter for Web Extensions",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "name": "@firemuzzy/trpc-chrome",
+  "version": "1.0.1-alpha",
+  "description": "tRPC adapter for Web Extensions (firemuzzy's fork)",
   "author": "James Berry <jb@jamesbe.com>",
   "private": false,
   "license": "MIT",
@@ -12,9 +15,9 @@
     "webext",
     "webextension"
   ],
-  "homepage": "https://github.com/jlalmes/trpc-chrome",
-  "repository": "github:jlalmes/trpc-chrome",
-  "bugs": "https://github.com/jlalmes/trpc-chrome/issues",
+  "homepage": "https://github.com/firemuzzy/trpc-chrome",
+  "repository": "https://github.com/firemuzzy/trpc-chrome",
+  "bugs": "https://github.com/firemuzzy/trpc-chrome/issues",
   "workspaces": [
     ".",
     "examples/with-plasmo"
