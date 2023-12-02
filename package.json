@@ -3,7 +3,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "name": "@firemuzzy/trpc-chrome",
-  "version": "1.0.1-alpha",
+  "version": "1.0.2-alpha",
   "description": "tRPC adapter for Web Extensions (firemuzzy's fork)",
   "author": "James Berry <jb@jamesbe.com>",
   "private": false,
